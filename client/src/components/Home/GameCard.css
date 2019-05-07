@@ -1,0 +1,29 @@
+.same-size-img {
+    padding-right: 0.5rem;
+    width:  7rem;
+    height: 5rem;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+.game-card {
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    cursor: pointer;
+}
+
+.game-text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #606060;
+}
+
+.game-card:hover {
+    background-color: rgb(210, 233, 255);
+}

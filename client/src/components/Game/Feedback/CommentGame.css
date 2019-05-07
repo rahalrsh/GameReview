@@ -1,0 +1,16 @@
+.user_name{
+    font-size:14px;
+    font-weight: bold;
+}
+
+.media {
+    margin-top: 5px;
+}
+
+.comments-list .media{
+    border-bottom: 1px solid #ccc;
+}
+
+.clickable {
+    cursor: pointer;
+}

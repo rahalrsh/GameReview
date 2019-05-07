@@ -1,0 +1,19 @@
+.no-padding {
+    padding: 0;
+}
+
+.dropdown-left .dropdown-menu {
+    /* background-color: red; */
+    right: 0;
+    left: initial;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.increase-z-index {
+    z-index: 1;
+}

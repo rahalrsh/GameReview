@@ -1,0 +1,4 @@
+export const LOGGED_IN = "LOGGED_IN";
+export const LOGGED_OUT = "LOGGED_OUT";
+export const ADD_FLASH_MESSAGE = "ADD_FLASH_MESSAGE";
+export const REMOVE_FLASH_MESSAGE = "REMOVE_FLASH_MESSAGE";

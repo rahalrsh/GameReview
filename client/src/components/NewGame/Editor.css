@@ -1,0 +1,23 @@
+.rr-wrapper {
+    margin-bottom: 20px !important;
+}
+
+.rr-toolbar {
+    border-top: 1px solid #ced4da !important;
+    border-left: 1px solid #ced4da !important;
+    border-right: 1px solid #ced4da !important;
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+.rr-editor {
+    height: 200px !important;
+    border: 1px solid #ced4da !important;
+    border-radius: 0px;
+    padding: 5px !important;
+    border-radius: 2px !important;
+}
+
+.rdw-option-wrapper {
+    height: 30px !important;
+}
